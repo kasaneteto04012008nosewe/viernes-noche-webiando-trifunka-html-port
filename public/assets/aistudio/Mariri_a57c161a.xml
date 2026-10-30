@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Mariri.png" width="614" height="866">
+	<SubTexture name="MaririL0000" x="4" y="435" width="298" height="426" frameX="-33" frameY="-22" frameWidth="366" frameHeight="493"/>
+	<SubTexture name="MaririL0001" x="4" y="435" width="298" height="426" frameX="-33" frameY="-22" frameWidth="366" frameHeight="493"/>
+	<SubTexture name="MaririL0002" x="4" y="435" width="298" height="426" frameX="-33" frameY="-22" frameWidth="366" frameHeight="493"/>
+	<SubTexture name="MaririL0003" x="311" y="4" width="299" height="429" frameX="-29" frameY="-19" frameWidth="366" frameHeight="493"/>
+	<SubTexture name="MaririL0004" x="311" y="4" width="299" height="429" frameX="-29" frameY="-19" frameWidth="366" frameHeight="493"/>
+	<SubTexture name="MaririL0005" x="311" y="4" width="299" height="429" frameX="-29" frameY="-19" frameWidth="366" frameHeight="493"/>
+	<SubTexture name="MaririR0000" x="306" y="437" width="303" height="425" frameX="-23" frameY="-23" frameWidth="366" frameHeight="493"/>
+	<SubTexture name="MaririR0001" x="306" y="437" width="303" height="425" frameX="-23" frameY="-23" frameWidth="366" frameHeight="493"/>
+	<SubTexture name="MaririR0002" x="306" y="437" width="303" height="425" frameX="-23" frameY="-23" frameWidth="366" frameHeight="493"/>
+	<SubTexture name="MaririR0003" x="4" y="4" width="303" height="427" frameX="-24" frameY="-20" frameWidth="366" frameHeight="493"/>
+	<SubTexture name="MaririR0004" x="4" y="4" width="303" height="427" frameX="-24" frameY="-20" frameWidth="366" frameHeight="493"/>
+	<SubTexture name="MaririR0005" x="4" y="4" width="303" height="427" frameX="-24" frameY="-20" frameWidth="366" frameHeight="493"/>
+</TextureAtlas>

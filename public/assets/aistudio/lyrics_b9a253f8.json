@@ -1,0 +1,104 @@
+{
+  "subtitles": [
+    {
+      "time": 216,
+      "id": "tutorial.lyrics.thatsHow"
+    },
+    {
+      "time": 224,
+      "id": ""
+    },
+    {
+      "time": 307,
+      "id": "tutorial.lyrics.dialogue1"
+    },
+    {
+      "time": 320,
+      "id": "tutorial.lyrics.dialogue2"
+    },
+    {
+      "time": 329,
+      "id": ""
+    },
+    {
+      "time": 344,
+      "id": "tutorial.lyrics.dialogue3"
+    },
+    {
+      "time": 352,
+      "id": ""
+    },
+    {
+      "time": 358,
+      "id": "tutorial.lyrics.verso1"
+    },
+    {
+      "time": 374,
+      "id": "tutorial.lyrics.verso2"
+    },
+    {
+      "time": 390,
+      "id": "tutorial.lyrics.verso3"
+    },
+    {
+      "time": 404,
+      "id": "tutorial.lyrics.guaracha"
+    },
+    {
+      "time": 420,
+      "id": ""
+    },
+    {
+      "time": 486,
+      "id": "tutorial.lyrics.verso4"
+    },
+    {
+      "time": 502,
+      "id": "tutorial.lyrics.verso5"
+    },
+    {
+      "time": 520,
+      "id": "tutorial.lyrics.verso6"
+    },
+    {
+      "time": 532,
+      "id": "tutorial.lyrics.guaracha"
+    },
+    {
+      "time": 548,
+      "id": ""
+    },
+    {
+      "time": 614,
+      "id": "tutorial.lyrics.dialogue4"
+    },
+    {
+      "time": 624,
+      "id": "tutorial.lyrics.dialogue5"
+    },
+    {
+      "time": 640,
+      "id": ""
+    },
+    {
+      "time": 644,
+      "id": "tutorial.lyrics.dialogue6"
+    },
+    {
+      "time": 659,
+      "id": "tutorial.lyrics.dialogue7"
+    },
+    {
+      "time": 666,
+      "id": ""
+    },
+    {
+      "time": 688,
+      "id": "tutorial.lyrics.dialogue8"
+    },
+    {
+      "time": 704,
+      "id": ""
+    }
+  ]
+}

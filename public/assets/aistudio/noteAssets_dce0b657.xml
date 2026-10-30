@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Tex-Packer-EX v0.7.2 https://kitzsh.github.io/tex-packer-ex
+-->
+<TextureAtlas imagePath="noteAssets.png" width="459" height="344">
+  <SubTexture name="note_00000" x="2" y="2"  width="112" height="110" frameX="-0" frameY="-0" frameWidth="112" frameHeight="110"/>
+  <SubTexture name="note_10000" x="118" y="2"  width="110" height="111" frameX="-0" frameY="-0" frameWidth="111" frameHeight="111"/>
+  <SubTexture name="note_20000" x="2" y="116" width="112" height="111" rotated="true"  frameX="-0" frameY="-0" frameWidth="111" frameHeight="112"/>
+  <SubTexture name="note_30000" x="2" y="231"  width="111" height="111" frameX="-0" frameY="-0" frameWidth="111" frameHeight="111"/>
+  <SubTexture name="note_40000" x="233" y="117"  width="90" height="106" frameX="-1" frameY="-1" frameWidth="91" frameHeight="107"/>
+  <SubTexture name="note_50000" x="347" y="116" width="106" height="90" rotated="true"  frameX="-1" frameY="-1" frameWidth="91" frameHeight="107"/>
+  <SubTexture name="note_60000" x="117" y="231"  width="111" height="111" frameX="-0" frameY="-0" frameWidth="112" frameHeight="111"/>
+  <SubTexture name="note_70000" x="118" y="117" width="111" height="110" rotated="true"  frameX="-0" frameY="-0" frameWidth="110" frameHeight="111"/>
+  <SubTexture name="note_80000" x="232" y="2"  width="111" height="111" frameX="-0" frameY="-0" frameWidth="111" frameHeight="112"/>
+  <SubTexture name="note_90000" x="232" y="231"  width="111" height="111" frameX="-0" frameY="-0" frameWidth="111" frameHeight="111"/>
+  <SubTexture name="note_diamond0000" x="347" y="2"  width="110" height="110" frameX="-0" frameY="-0" frameWidth="110" frameHeight="110"/>
+</TextureAtlas>

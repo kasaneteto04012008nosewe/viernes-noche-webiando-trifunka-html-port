@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="genteFront.png" width="2525" height="6284" spritePadding="2" borderPadding="2">
+	<SubTexture name="BopCrowdFront0000" x="2" y="5046" width="2521" height="617" frameX="0" frameY="-859" frameWidth="2521" frameHeight="1476"/>
+	<SubTexture name="BopCrowdFront0001" x="2" y="5665" width="2521" height="617" frameX="0" frameY="-859" frameWidth="2521" frameHeight="1476"/>
+	<SubTexture name="BopCrowdFront0002" x="2" y="3788" width="2521" height="627" frameX="0" frameY="-849" frameWidth="2521" frameHeight="1476"/>
+	<SubTexture name="BopCrowdFront0003" x="2" y="4417" width="2521" height="627" frameX="0" frameY="-849" frameWidth="2521" frameHeight="1476"/>
+	<SubTexture name="BopCrowdFront0004" x="2" y="2" width="2521" height="629" frameX="0" frameY="-847" frameWidth="2521" frameHeight="1476"/>
+	<SubTexture name="BopCrowdFront0005" x="2" y="633" width="2521" height="629" frameX="0" frameY="-847" frameWidth="2521" frameHeight="1476"/>
+	<SubTexture name="BopCrowdFront0006" x="2" y="1264" width="2521" height="629" frameX="0" frameY="-847" frameWidth="2521" frameHeight="1476"/>
+	<SubTexture name="BopCrowdFront0007" x="2" y="2" width="2521" height="629" frameX="0" frameY="-847" frameWidth="2521" frameHeight="1476"/>
+	<SubTexture name="BopCrowdFront0008" x="2" y="633" width="2521" height="629" frameX="0" frameY="-847" frameWidth="2521" frameHeight="1476"/>
+	<SubTexture name="BopCrowdFront0009" x="2" y="1895" width="2521" height="629" frameX="0" frameY="-847" frameWidth="2521" frameHeight="1476"/>
+	<SubTexture name="BopCrowdFront0010" x="2" y="2526" width="2521" height="629" frameX="0" frameY="-847" frameWidth="2521" frameHeight="1476"/>
+	<SubTexture name="BopCrowdFront0011" x="2" y="3157" width="2521" height="629" frameX="0" frameY="-847" frameWidth="2521" frameHeight="1476"/>
+	<SubTexture name="BopCrowdFront0012" x="2" y="1264" width="2521" height="629" frameX="0" frameY="-847" frameWidth="2521" frameHeight="1476"/>
+</TextureAtlas>

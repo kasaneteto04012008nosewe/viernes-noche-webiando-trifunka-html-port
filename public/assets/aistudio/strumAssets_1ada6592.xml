@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Tex-Packer-EX v0.7.2 https://kitzsh.github.io/tex-packer-ex
+-->
+<TextureAtlas imagePath="strumAssets.png" width="1227" height="1142">
+  <SubTexture name="confirm_00000" x="180" y="2"  width="172" height="172" frameX="-4" frameY="-3" frameWidth="184" frameHeight="182"/>
+  <SubTexture name="confirm_00001" x="180" y="178"  width="172" height="172" frameX="-4" frameY="-3" frameWidth="184" frameHeight="182"/>
+  <SubTexture name="confirm_00002" x="681" y="530"  width="157" height="156" frameX="-12" frameY="-11" frameWidth="184" frameHeight="182"/>
+  <SubTexture name="confirm_00003" x="681" y="530"  width="157" height="156" frameX="-12" frameY="-11" frameWidth="184" frameHeight="182"/>
+  <SubTexture name="confirm_10000" x="2" y="354" width="172" height="171" rotated="true"  frameX="-4" frameY="-3" frameWidth="182" frameHeight="183"/>
+  <SubTexture name="confirm_10001" x="178" y="354" width="172" height="171" rotated="true"  frameX="-4" frameY="-3" frameWidth="182" frameHeight="183"/>
+  <SubTexture name="confirm_10002" x="681" y="690" width="157" height="156" rotated="true"  frameX="-11" frameY="-11" frameWidth="182" frameHeight="183"/>
+  <SubTexture name="confirm_10003" x="681" y="690" width="157" height="156" rotated="true"  frameX="-11" frameY="-11" frameWidth="182" frameHeight="183"/>
+  <SubTexture name="confirm_20000" x="356" y="2"  width="172" height="172" frameX="-3" frameY="-4" frameWidth="182" frameHeight="184"/>
+  <SubTexture name="confirm_20001" x="356" y="178"  width="172" height="172" frameX="-3" frameY="-4" frameWidth="182" frameHeight="184"/>
+  <SubTexture name="confirm_20002" x="858" y="2"  width="155" height="157" frameX="-12" frameY="-12" frameWidth="182" frameHeight="184"/>
+  <SubTexture name="confirm_20003" x="858" y="2"  width="155" height="157" frameX="-12" frameY="-12" frameWidth="182" frameHeight="184"/>
+  <SubTexture name="confirm_30000" x="2" y="529"  width="172" height="172" frameX="-3" frameY="-3" frameWidth="183" frameHeight="182"/>
+  <SubTexture name="confirm_30001" x="178" y="529"  width="172" height="172" frameX="-3" frameY="-3" frameWidth="183" frameHeight="182"/>
+  <SubTexture name="confirm_30002" x="842" y="172"  width="157" height="156" frameX="-11" frameY="-11" frameWidth="183" frameHeight="182"/>
+  <SubTexture name="confirm_30003" x="842" y="172"  width="157" height="156" frameX="-11" frameY="-11" frameWidth="183" frameHeight="182"/>
+  <SubTexture name="confirm_40000" x="353" y="705"  width="147" height="167" frameX="-4" frameY="-3" frameWidth="171" frameHeight="177"/>
+  <SubTexture name="confirm_40001" x="504" y="705"  width="147" height="167" frameX="-4" frameY="-3" frameWidth="171" frameHeight="177"/>
+  <SubTexture name="confirm_40002" x="338" y="880"  width="133" height="151" frameX="-12" frameY="-11" frameWidth="171" frameHeight="177"/>
+  <SubTexture name="confirm_40003" x="338" y="880"  width="133" height="151" frameX="-12" frameY="-11" frameWidth="171" frameHeight="177"/>
+  <SubTexture name="confirm_50000" x="530" y="530"  width="147" height="166" frameX="-15" frameY="-4" frameWidth="171" frameHeight="177"/>
+  <SubTexture name="confirm_50001" x="707" y="2"  width="147" height="166" frameX="-15" frameY="-4" frameWidth="171" frameHeight="177"/>
+  <SubTexture name="confirm_50002" x="475" y="876"  width="133" height="151" frameX="-21" frameY="-11" frameWidth="171" frameHeight="177"/>
+  <SubTexture name="confirm_50003" x="475" y="876"  width="133" height="151" frameX="-21" frameY="-11" frameWidth="171" frameHeight="177"/>
+  <SubTexture name="confirm_60000" x="354" y="354"  width="172" height="172" frameX="-4" frameY="-3" frameWidth="183" frameHeight="182"/>
+  <SubTexture name="confirm_60001" x="354" y="354"  width="172" height="172" frameX="-4" frameY="-3" frameWidth="183" frameHeight="182"/>
+  <SubTexture name="confirm_60002" x="842" y="332"  width="157" height="156" frameX="-11" frameY="-11" frameWidth="183" frameHeight="182"/>
+  <SubTexture name="confirm_60003" x="842" y="332"  width="157" height="156" frameX="-11" frameY="-11" frameWidth="183" frameHeight="182"/>
+  <SubTexture name="confirm_70000" x="354" y="530" width="172" height="171" rotated="true"  frameX="-4" frameY="-3" frameWidth="182" frameHeight="183"/>
+  <SubTexture name="confirm_70001" x="532" y="2"  width="171" height="172" frameX="-4" frameY="-3" frameWidth="182" frameHeight="183"/>
+  <SubTexture name="confirm_70002" x="842" y="492"  width="157" height="157" frameX="-11" frameY="-11" frameWidth="182" frameHeight="183"/>
+  <SubTexture name="confirm_70003" x="842" y="492"  width="157" height="157" frameX="-11" frameY="-11" frameWidth="182" frameHeight="183"/>
+  <SubTexture name="confirm_80000" x="2" y="2" width="174" height="172" rotated="true"  frameX="-3" frameY="-3" frameWidth="182" frameHeight="183"/>
+  <SubTexture name="confirm_80001" x="2" y="178" width="174" height="172" rotated="true"  frameX="-3" frameY="-3" frameWidth="182" frameHeight="183"/>
+  <SubTexture name="confirm_80002" x="842" y="653" width="157" height="156" rotated="true"  frameX="-11" frameY="-11" frameWidth="182" frameHeight="183"/>
+  <SubTexture name="confirm_80003" x="842" y="653" width="157" height="156" rotated="true"  frameX="-11" frameY="-11" frameWidth="182" frameHeight="183"/>
+  <SubTexture name="confirm_90000" x="530" y="354"  width="172" height="172" frameX="-3" frameY="-3" frameWidth="183" frameHeight="182"/>
+  <SubTexture name="confirm_90001" x="2" y="705"  width="172" height="172" frameX="-3" frameY="-3" frameWidth="183" frameHeight="182"/>
+  <SubTexture name="confirm_90002" x="178" y="880" width="156" height="157" rotated="true"  frameX="-11" frameY="-11" frameWidth="183" frameHeight="182"/>
+  <SubTexture name="confirm_90003" x="178" y="880" width="156" height="157" rotated="true"  frameX="-11" frameY="-11" frameWidth="183" frameHeight="182"/>
+  <SubTexture name="confirm_diamond0000" x="532" y="178"  width="171" height="171" frameX="-4" frameY="-4" frameWidth="183" frameHeight="184"/>
+  <SubTexture name="confirm_diamond0001" x="178" y="705"  width="171" height="171" frameX="-4" frameY="-4" frameWidth="183" frameHeight="184"/>
+  <SubTexture name="confirm_diamond0002" x="2" y="881"  width="153" height="153" frameX="-13" frameY="-14" frameWidth="183" frameHeight="184"/>
+  <SubTexture name="confirm_diamond0003" x="2" y="881"  width="153" height="153" frameX="-13" frameY="-14" frameWidth="183" frameHeight="184"/>
+  <SubTexture name="press_00000" x="2" y="1041"  width="101" height="99" frameX="-2" frameY="-3" frameWidth="106" frameHeight="105"/>
+  <SubTexture name="press_00001" x="2" y="1041"  width="101" height="99" frameX="-2" frameY="-3" frameWidth="106" frameHeight="105"/>
+  <SubTexture name="press_00002" x="1017" y="2" width="105" height="106" rotated="true"  frameX="-0" frameY="-0" frameWidth="106" frameHeight="105"/>
+  <SubTexture name="press_00003" x="1017" y="2" width="105" height="106" rotated="true"  frameX="-0" frameY="-0" frameWidth="106" frameHeight="105"/>
+  <SubTexture name="press_10000" x="212" y="1041" width="100" height="99" rotated="true"  frameX="-3" frameY="-3" frameWidth="106" frameHeight="107"/>
+  <SubTexture name="press_10001" x="212" y="1041" width="100" height="99" rotated="true"  frameX="-3" frameY="-3" frameWidth="106" frameHeight="107"/>
+  <SubTexture name="press_10002" x="1017" y="112"  width="105" height="106" frameX="-0" frameY="-0" frameWidth="106" frameHeight="107"/>
+  <SubTexture name="press_10003" x="1017" y="112"  width="105" height="106" frameX="-0" frameY="-0" frameWidth="106" frameHeight="107"/>
+  <SubTexture name="press_20000" x="726" y="1038"  width="100" height="100" frameX="-2" frameY="-3" frameWidth="105" frameHeight="107"/>
+  <SubTexture name="press_20001" x="726" y="1038"  width="100" height="100" frameX="-2" frameY="-3" frameWidth="105" frameHeight="107"/>
+  <SubTexture name="press_20002" x="944" y="927"  width="105" height="106" frameX="-0" frameY="-0" frameWidth="105" frameHeight="107"/>
+  <SubTexture name="press_20003" x="944" y="927"  width="105" height="106" frameX="-0" frameY="-0" frameWidth="105" frameHeight="107"/>
+  <SubTexture name="press_30000" x="338" y="1038" width="100" height="101" rotated="true"  frameX="-3" frameY="-3" frameWidth="107" frameHeight="106"/>
+  <SubTexture name="press_30001" x="338" y="1038" width="100" height="101" rotated="true"  frameX="-3" frameY="-3" frameWidth="107" frameHeight="106"/>
+  <SubTexture name="press_30002" x="726" y="927" width="105" height="107" rotated="true"  frameX="-0" frameY="-0" frameWidth="107" frameHeight="106"/>
+  <SubTexture name="press_30003" x="726" y="927" width="105" height="107" rotated="true"  frameX="-0" frameY="-0" frameWidth="107" frameHeight="106"/>
+  <SubTexture name="press_40000" x="1126" y="106" width="96" height="81" rotated="true"  frameX="-2" frameY="-2" frameWidth="86" frameHeight="101"/>
+  <SubTexture name="press_40001" x="1126" y="106" width="96" height="81" rotated="true"  frameX="-2" frameY="-2" frameWidth="86" frameHeight="101"/>
+  <SubTexture name="press_40002" x="442" y="1038"  width="85" height="101" frameX="-0" frameY="-0" frameWidth="86" frameHeight="101"/>
+  <SubTexture name="press_40003" x="442" y="1038"  width="85" height="101" frameX="-0" frameY="-0" frameWidth="86" frameHeight="101"/>
+  <SubTexture name="press_50000" x="1126" y="191" width="95" height="80" rotated="true"  frameX="-3" frameY="-3" frameWidth="86" frameHeight="101"/>
+  <SubTexture name="press_50001" x="1126" y="191" width="95" height="80" rotated="true"  frameX="-3" frameY="-3" frameWidth="86" frameHeight="101"/>
+  <SubTexture name="press_50002" x="531" y="1038"  width="86" height="101" frameX="-0" frameY="-0" frameWidth="86" frameHeight="101"/>
+  <SubTexture name="press_50003" x="531" y="1038"  width="86" height="101" frameX="-0" frameY="-0" frameWidth="86" frameHeight="101"/>
+  <SubTexture name="press_60000" x="107" y="1041"  width="101" height="99" frameX="-2" frameY="-3" frameWidth="106" frameHeight="105"/>
+  <SubTexture name="press_60001" x="107" y="1041"  width="101" height="99" frameX="-2" frameY="-3" frameWidth="106" frameHeight="105"/>
+  <SubTexture name="press_60002" x="956" y="813" width="105" height="106" rotated="true"  frameX="-0" frameY="-0" frameWidth="106" frameHeight="105"/>
+  <SubTexture name="press_60003" x="956" y="813" width="105" height="106" rotated="true"  frameX="-0" frameY="-0" frameWidth="106" frameHeight="105"/>
+  <SubTexture name="press_70000" x="830" y="1038"  width="99" height="100" frameX="-3" frameY="-3" frameWidth="106" frameHeight="107"/>
+  <SubTexture name="press_70001" x="830" y="1038"  width="99" height="100" frameX="-3" frameY="-3" frameWidth="106" frameHeight="107"/>
+  <SubTexture name="press_70002" x="1003" y="222" width="106" height="105" rotated="true"  frameX="-0" frameY="-0" frameWidth="106" frameHeight="107"/>
+  <SubTexture name="press_70003" x="1003" y="222" width="106" height="105" rotated="true"  frameX="-0" frameY="-0" frameWidth="106" frameHeight="107"/>
+  <SubTexture name="press_80000" x="933" y="1038"  width="100" height="100" frameX="-2" frameY="-3" frameWidth="105" frameHeight="107"/>
+  <SubTexture name="press_80001" x="933" y="1038"  width="100" height="100" frameX="-2" frameY="-3" frameWidth="105" frameHeight="107"/>
+  <SubTexture name="press_80002" x="1003" y="331" width="106" height="105" rotated="true"  frameX="-0" frameY="-0" frameWidth="105" frameHeight="107"/>
+  <SubTexture name="press_80003" x="1003" y="331" width="106" height="105" rotated="true"  frameX="-0" frameY="-0" frameWidth="105" frameHeight="107"/>
+  <SubTexture name="press_90000" x="621" y="991"  width="101" height="100" frameX="-3" frameY="-3" frameWidth="107" frameHeight="106"/>
+  <SubTexture name="press_90001" x="621" y="991"  width="101" height="100" frameX="-3" frameY="-3" frameWidth="107" frameHeight="106"/>
+  <SubTexture name="press_90002" x="835" y="927" width="105" height="107" rotated="true"  frameX="-0" frameY="-0" frameWidth="107" frameHeight="106"/>
+  <SubTexture name="press_90003" x="835" y="927" width="105" height="107" rotated="true"  frameX="-0" frameY="-0" frameWidth="107" frameHeight="106"/>
+  <SubTexture name="press_diamond0000" x="1126" y="2" width="99" height="100" rotated="true"  frameX="-2" frameY="-2" frameWidth="105" frameHeight="105"/>
+  <SubTexture name="press_diamond0001" x="1126" y="2" width="99" height="100" rotated="true"  frameX="-2" frameY="-2" frameWidth="105" frameHeight="105"/>
+  <SubTexture name="press_diamond0002" x="1003" y="628"  width="104" height="104" frameX="-0" frameY="-0" frameWidth="105" frameHeight="105"/>
+  <SubTexture name="press_diamond0003" x="1003" y="628"  width="104" height="104" frameX="-0" frameY="-0" frameWidth="105" frameHeight="105"/>
+  <SubTexture name="strum_00000" x="707" y="172"  width="112" height="110" frameX="-0" frameY="-0" frameWidth="112" frameHeight="111"/>
+  <SubTexture name="strum_10000" x="707" y="286" width="111" height="110" rotated="true"  frameX="-0" frameY="-0" frameWidth="111" frameHeight="111"/>
+  <SubTexture name="strum_20000" x="706" y="400"  width="110" height="111" frameX="-0" frameY="-0" frameWidth="110" frameHeight="112"/>
+  <SubTexture name="strum_30000" x="612" y="876" width="110" height="111" rotated="true"  frameX="-0" frameY="-0" frameWidth="111" frameHeight="110"/>
+  <SubTexture name="strum_40000" x="1003" y="440" width="106" height="90" rotated="true"  frameX="-1" frameY="-1" frameWidth="91" frameHeight="107"/>
+  <SubTexture name="strum_50000" x="1003" y="534" width="106" height="90" rotated="true"  frameX="-0" frameY="-1" frameWidth="90" frameHeight="107"/>
+  <SubTexture name="strum_60000" x="707" y="172"  width="112" height="110" frameX="-0" frameY="-0" frameWidth="112" frameHeight="111"/>
+  <SubTexture name="strum_70000" x="707" y="286" width="111" height="110" rotated="true"  frameX="-0" frameY="-0" frameWidth="111" frameHeight="111"/>
+  <SubTexture name="strum_80000" x="706" y="400"  width="110" height="111" frameX="-0" frameY="-0" frameWidth="110" frameHeight="112"/>
+  <SubTexture name="strum_90000" x="612" y="876" width="110" height="111" rotated="true"  frameX="-0" frameY="-0" frameWidth="111" frameHeight="110"/>
+  <SubTexture name="strum_diamond0000" x="842" y="813"  width="110" height="110" frameX="-0" frameY="-0" frameWidth="110" frameHeight="110"/>
+</TextureAtlas>

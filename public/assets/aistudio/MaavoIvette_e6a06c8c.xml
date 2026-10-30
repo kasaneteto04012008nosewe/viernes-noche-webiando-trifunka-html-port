@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="MaavoIvette.png" width="1295" height="1453">
+	<SubTexture name="MAAVETTE0000" x="647" y="731" width="641" height="718" frameX="-42" frameY="-90" frameWidth="790" frameHeight="904"/>
+	<SubTexture name="MAAVETTE0001" x="647" y="731" width="641" height="718" frameX="-42" frameY="-90" frameWidth="790" frameHeight="904"/>
+	<SubTexture name="MAAVETTE0002" x="647" y="731" width="641" height="718" frameX="-42" frameY="-90" frameWidth="790" frameHeight="904"/>
+	<SubTexture name="MAAVETTE0003" x="4" y="727" width="639" height="720" frameX="-42" frameY="-88" frameWidth="790" frameHeight="904"/>
+	<SubTexture name="MAAVETTE0004" x="4" y="727" width="639" height="720" frameX="-42" frameY="-88" frameWidth="790" frameHeight="904"/>
+	<SubTexture name="MAAVETTE0005" x="4" y="727" width="639" height="720" frameX="-42" frameY="-88" frameWidth="790" frameHeight="904"/>
+	<SubTexture name="yluegofollaron0000" x="650" y="4" width="641" height="723" frameX="-42" frameY="-85" frameWidth="790" frameHeight="904"/>
+	<SubTexture name="yluegofollaron0001" x="650" y="4" width="641" height="723" frameX="-42" frameY="-85" frameWidth="790" frameHeight="904"/>
+	<SubTexture name="yluegofollaron0002" x="650" y="4" width="641" height="723" frameX="-42" frameY="-85" frameWidth="790" frameHeight="904"/>
+	<SubTexture name="yluegofollaron0003" x="4" y="4" width="642" height="719" frameX="-42" frameY="-88" frameWidth="790" frameHeight="904"/>
+	<SubTexture name="yluegofollaron0004" x="4" y="4" width="642" height="719" frameX="-42" frameY="-88" frameWidth="790" frameHeight="904"/>
+	<SubTexture name="yluegofollaron0005" x="4" y="4" width="642" height="719" frameX="-42" frameY="-88" frameWidth="790" frameHeight="904"/>
+</TextureAtlas>

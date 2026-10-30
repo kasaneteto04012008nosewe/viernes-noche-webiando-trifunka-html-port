@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Tex-Packer-EX v0.7.2 https://kitzsh.github.io/tex-packer-ex
+-->
+<TextureAtlas imagePath="noteSplashes.png" width="2587" height="2473">
+  <SubTexture name="splash_0_10000" x="299" y="1664"  width="200" height="282" frameX="-32" frameY="-11" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_0_10001" x="1897" y="2"  width="225" height="276" frameX="-27" frameY="-22" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_0_10002" x="868" y="2"  width="263" height="303" frameX="-4" frameY="-6" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_0_10003" x="2" y="2" width="310" height="272" rotated="true"  frameX="-0" frameY="-0" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_0_20000" x="2182" y="1526" width="212" height="180" rotated="true"  frameX="-53" frameY="-42" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_0_20001" x="1973" y="790" width="250" height="237" rotated="true"  frameX="-28" frameY="-20" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_0_20002" x="1693" y="288"  width="276" height="275" frameX="-8" frameY="-5" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_0_20003" x="2" y="1373"  width="293" height="287" frameX="-0" frameY="-0" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_1_10000" x="503" y="1664"  width="200" height="282" frameX="-32" frameY="-11" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_1_10001" x="1693" y="567" width="276" height="225" rotated="true"  frameX="-27" frameY="-22" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_1_10002" x="868" y="309"  width="263" height="303" frameX="-4" frameY="-6" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_1_10003" x="2" y="278" width="310" height="272" rotated="true"  frameX="-0" frameY="-0" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_1_20000" x="2214" y="1272"  width="180" height="212" frameX="-53" frameY="-42" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_1_20001" x="1973" y="1031" width="250" height="237" rotated="true"  frameX="-28" frameY="-20" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_1_20002" x="1693" y="796"  width="276" height="275" frameX="-8" frameY="-5" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_1_20003" x="299" y="1373"  width="293" height="287" frameX="-0" frameY="-0" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_2_10000" x="707" y="1664"  width="200" height="282" frameX="-32" frameY="-11" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_2_10001" x="1693" y="1075" width="276" height="225" rotated="true"  frameX="-27" frameY="-22" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_2_10002" x="868" y="616"  width="263" height="303" frameX="-4" frameY="-6" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_2_10003" x="316" y="2"  width="272" height="310" frameX="-0" frameY="-0" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_2_20000" x="1754" y="2175"  width="180" height="212" frameX="-53" frameY="-42" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_2_20001" x="1973" y="1272"  width="237" height="250" frameX="-28" frameY="-20" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_2_20002" x="1693" y="1304"  width="276" height="275" frameX="-8" frameY="-5" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_2_20003" x="596" y="1373"  width="293" height="287" frameX="-0" frameY="-0" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_3_10000" x="1184" y="1230"  width="200" height="282" frameX="-32" frameY="-11" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_3_10001" x="1674" y="1583"  width="225" height="276" frameX="-27" frameY="-22" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_3_10002" x="868" y="923"  width="263" height="303" frameX="-4" frameY="-6" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_3_10003" x="316" y="316"  width="272" height="310" frameX="-0" frameY="-0" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_3_20000" x="1938" y="2092"  width="180" height="212" frameX="-53" frameY="-42" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_3_20001" x="2" y="2234" width="250" height="237" rotated="true"  frameX="-28" frameY="-20" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_3_20002" x="2" y="1955"  width="276" height="275" frameX="-8" frameY="-5" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_3_20003" x="893" y="1230" width="287" height="293" rotated="true"  frameX="-0" frameY="-0" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_4_10000" x="1388" y="1487" width="282" height="200" rotated="true"  frameX="-32" frameY="-11" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_4_10001" x="299" y="1950"  width="225" height="276" frameX="-27" frameY="-22" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_4_10002" x="2" y="1106" width="303" height="263" rotated="true"  frameX="-4" frameY="-6" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_4_10003" x="2" y="554" width="310" height="272" rotated="true"  frameX="-0" frameY="-0" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_4_20000" x="2122" y="2092" width="212" height="180" rotated="true"  frameX="-53" frameY="-42" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_4_20001" x="256" y="2234" width="250" height="237" rotated="true"  frameX="-28" frameY="-20" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_4_20002" x="528" y="1950" width="275" height="276" rotated="true"  frameX="-8" frameY="-5" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_4_20003" x="1402" y="2" width="287" height="293" rotated="true"  frameX="-0" frameY="-0" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_5_10000" x="1184" y="1516"  width="200" height="282" frameX="-32" frameY="-11" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_5_10001" x="807" y="1950"  width="225" height="276" frameX="-27" frameY="-22" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_5_10002" x="309" y="1106" width="303" height="263" rotated="true"  frameX="-4" frameY="-6" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_5_10003" x="592" y="2"  width="272" height="310" frameX="-0" frameY="-0" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_5_20000" x="2122" y="2276" width="212" height="180" rotated="true"  frameX="-53" frameY="-42" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_5_20001" x="510" y="2230" width="250" height="237" rotated="true"  frameX="-28" frameY="-20" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_5_20002" x="1036" y="1895" width="275" height="276" rotated="true"  frameX="-8" frameY="-5" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_5_20003" x="1402" y="299" width="287" height="293" rotated="true"  frameX="-0" frameY="-0" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_6_10000" x="1388" y="1691" width="282" height="200" rotated="true"  frameX="-32" frameY="-11" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_6_10001" x="1315" y="1895"  width="225" height="276" frameX="-27" frameY="-22" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_6_10002" x="1135" y="2"  width="263" height="303" frameX="-4" frameY="-6" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_6_10003" x="592" y="316"  width="272" height="310" frameX="-0" frameY="-0" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_6_20000" x="2405" y="2"  width="180" height="212" frameX="-53" frameY="-42" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_6_20001" x="764" y="2230" width="250" height="237" rotated="true"  frameX="-28" frameY="-20" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_6_20002" x="1544" y="1895" width="275" height="276" rotated="true"  frameX="-8" frameY="-5" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_6_20003" x="1402" y="596" width="287" height="293" rotated="true"  frameX="-0" frameY="-0" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_7_10000" x="616" y="944"  width="200" height="282" frameX="-32" frameY="-11" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_7_10001" x="1823" y="1863" width="276" height="225" rotated="true"  frameX="-27" frameY="-22" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_7_10002" x="1135" y="309"  width="263" height="303" frameX="-4" frameY="-6" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_7_10003" x="2" y="830" width="310" height="272" rotated="true"  frameX="-0" frameY="-0" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_7_20000" x="2405" y="218"  width="180" height="212" frameX="-53" frameY="-42" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_7_20001" x="1018" y="2230" width="250" height="237" rotated="true"  frameX="-28" frameY="-20" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_7_20002" x="1903" y="1583" width="275" height="276" rotated="true"  frameX="-8" frameY="-5" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_7_20003" x="1402" y="893" width="287" height="293" rotated="true"  frameX="-0" frameY="-0" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_8_10000" x="911" y="1527"  width="200" height="282" frameX="-32" frameY="-11" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_8_10001" x="2103" y="1863" width="276" height="225" rotated="true"  frameX="-27" frameY="-22" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_8_10002" x="1135" y="616"  width="263" height="303" frameX="-4" frameY="-6" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_8_10003" x="316" y="630"  width="272" height="310" frameX="-0" frameY="-0" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_8_20000" x="2398" y="434"  width="180" height="212" frameX="-53" frameY="-42" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_8_20001" x="1272" y="2175"  width="237" height="250" frameX="-28" frameY="-20" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_8_20002" x="2126" y="2" width="275" height="276" rotated="true"  frameX="-8" frameY="-5" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_8_20003" x="1402" y="1190" width="287" height="293" rotated="true"  frameX="-0" frameY="-0" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_9_10000" x="1693" y="2"  width="200" height="282" frameX="-32" frameY="-11" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_9_10001" x="1973" y="282" width="276" height="225" rotated="true"  frameX="-27" frameY="-22" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_9_10002" x="1135" y="923"  width="263" height="303" frameX="-4" frameY="-6" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_9_10003" x="592" y="630"  width="272" height="310" frameX="-0" frameY="-0" frameWidth="275" frameHeight="313"/>
+  <SubTexture name="splash_9_20000" x="2398" y="650"  width="180" height="212" frameX="-53" frameY="-42" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_9_20001" x="1513" y="2175"  width="237" height="250" frameX="-28" frameY="-20" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_9_20002" x="1973" y="511"  width="276" height="275" frameX="-8" frameY="-5" frameWidth="297" frameHeight="292"/>
+  <SubTexture name="splash_9_20003" x="2" y="1664"  width="293" height="287" frameX="-0" frameY="-0" frameWidth="297" frameHeight="292"/>
+</TextureAtlas>

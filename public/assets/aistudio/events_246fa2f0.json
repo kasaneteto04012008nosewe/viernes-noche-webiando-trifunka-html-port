@@ -1,0 +1,54 @@
+{
+	"events": [
+		{
+			"events": [
+				{
+					"type": "Set Bop Frequency",
+					"value1": "1",
+					"value2": ""
+				}
+			],
+			"time": 4363.63636363636
+		},
+		{
+			"events": [
+				{
+					"type": "Set Bop Frequency",
+					"value1": "",
+					"value2": ""
+				}
+			],
+			"time": 8727.27272727273
+		},
+		{
+			"events": [
+				{
+					"type": "Set Bop Frequency",
+					"value1": "1",
+					"value2": ""
+				}
+			],
+			"time": 13090.9090909091
+		},
+		{
+			"time": 39272.7272727273,
+			"events": [
+				{
+					"value1": "0",
+					"type": "Set Bop Frequency",
+					"value2": ""
+				}
+			]
+		},
+		{
+			"time": 41192.7272727273,
+			"events": [
+				{
+					"value1": "2",
+					"type": "Set Bop Frequency",
+					"value2": ""
+				}
+			]
+		}
+	]
+}

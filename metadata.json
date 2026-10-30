@@ -1,0 +1,6 @@
+{
+  "name": "Viernes Noche Webiando - FNF Menu",
+  "description": "Friday Night Funkin' style main menu with custom title screen, character silhouettes, beat pulsing, sound effects, and secret easter egg.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
